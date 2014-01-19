@@ -1,5 +1,6 @@
 {
 	"name": "gumby-admin",
+	"version": "0.0.1",
 	"main": [
 		"./css/gadmin.css",
 		"./js/gumby.min.js"
