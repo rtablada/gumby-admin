@@ -1,0 +1,10 @@
+{
+	"name": "gumby-admin",
+	"main": [
+		"./css/gadmin.css",
+		"./js/gumby.min.js"
+	],
+	"dependencies": {
+		"gumby": "2.6.0"
+	}
+}
